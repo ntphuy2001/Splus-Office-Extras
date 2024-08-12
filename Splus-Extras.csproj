@@ -198,6 +198,12 @@
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="SettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingForm.Designer.cs">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="TranslateServiceStrategyFactory.cs" />
     <Compile Include="TranslationServiceSingleton.cs" />
     <Compile Include="WordArtStrategy.cs" />
@@ -211,6 +217,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SettingForm.resx">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SplusExtras.resx">
       <DependentUpon>SplusExtras.cs</DependentUpon>
     </EmbeddedResource>

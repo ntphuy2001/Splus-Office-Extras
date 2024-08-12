@@ -17,7 +17,6 @@ namespace Splus_Extras
                 case "textbox": return new TextBoxStrategy();
                 case "header": return new HeaderStrategy();
                 case "footer": return new FooterStrategy();
-                case "wordart": return new WordArtStrategy();
                 default: throw new ArgumentException("Invalid strategy type");
             }
         }
