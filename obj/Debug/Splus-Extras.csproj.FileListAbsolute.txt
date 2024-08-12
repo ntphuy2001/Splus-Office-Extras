@@ -11,3 +11,4 @@ C:\Users\phihu\source\repos\Splus-Extras\Splus-Extras\obj\Debug\Splus-Extras.csp
 C:\Users\phihu\source\repos\Splus-Extras\Splus-Extras\obj\Debug\Splus-Ex.62742DAC.Up2Date
 C:\Users\phihu\source\repos\Splus-Extras\Splus-Extras\obj\Debug\Splus-Extras.dll
 C:\Users\phihu\source\repos\Splus-Extras\Splus-Extras\obj\Debug\Splus-Extras.pdb
+C:\Users\phihu\source\repos\Splus-Extras\Splus-Extras\obj\Debug\Splus_Extras.SettingForm.resources
