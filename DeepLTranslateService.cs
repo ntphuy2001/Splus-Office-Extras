@@ -29,7 +29,7 @@ namespace Splus_Extras
             for (int i = 0; i < listResources.Count; i++)
             {
                 Range resource = listResources[i];
-                listResult.Add($"DeepL translate from {sourceLanguage} to {targetLanguage}: {resource}");
+                listResult.Add($"DeepL translate from {sourceLanguage} to {targetLanguage}: {resource.Text.TrimEnd()}");
             }
 
             return listResult;
